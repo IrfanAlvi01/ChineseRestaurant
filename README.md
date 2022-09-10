@@ -1,8 +1,8 @@
-# MyRead Lib
+# Vanilla Chinese Restaurant
 
 
 ## Description
-    This repository contain code for my myread assignments of coursera course.
+    This repository contain code for my restaurant assignments of coursera course.
     This repos consist of all source code including front-end (CSS3) and back-end
     (which based on vanilla Javascript).
 
